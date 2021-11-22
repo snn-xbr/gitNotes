@@ -31,7 +31,9 @@ git commit -m dev上的提交
 git checkout master
 git merge master
 git branch -d dev
-你好啊
 
 6.克隆远程代码
 git clone url 文件夹名
+
+7.多人协作
+git pull先
